@@ -1,2 +1,2 @@
 # apnacollege
-this is my apa college repo
+this is my apna college repo
